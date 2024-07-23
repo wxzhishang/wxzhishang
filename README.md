@@ -67,6 +67,8 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile
 
 🔥 My Skill Set:
 -----------------------
+<table><tr>
+<td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -84,11 +86,9 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
+</td>
 
-</td><td valign="top" width="33%">
-
-
-
+<td valign="top" width="33%">
 ### Backend  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -98,11 +98,9 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 </div>
+</td>
 
-</td><td valign="top" width="33%">
-
-
-
+<td valign="top" width="33%">
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -111,8 +109,8 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
 
