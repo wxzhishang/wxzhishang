@@ -38,11 +38,9 @@ Here are some ideas to get you started:
   ![Nest.js](https://img.shields.io/badge/nest.js-75AFCC?logo=nestjs&logoColor=%23E0234E)
 
 - 🌱 I’m currently learning:
-  ![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)
-  ![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
-
+  ![Nest.js](https://img.shields.io/badge/nest.js-75AFCC?logo=nestjs&logoColor=%23E0234E)
+  ![typescript](https://img.shields.io/badge/typescript-000000?logo=typescript&logoColor=%233178C6)
+  ![rust](https://img.shields.io/badge/rust-FFFFFF?logo=rust&logoColor=000000)
 
 Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)visitor, Thank You!🎉🎉
 <!--
