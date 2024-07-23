@@ -1,9 +1,10 @@
 <!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
 
-<h1 align="center">欢迎来到前端嚣张农民GitHub主页👋</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到KAKA.GitHub首页!&center=true&size=27"></h1>
+
 
 <!--
-**linweiqian/linweiqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wxzhishang/wxzhishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,27 +17,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://linweiqian.github.io/linweiqianBlog/)
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://linweiqian.github.io/linweiqianBlog/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]
+  [![React](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]
+  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]
+  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]
+  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)]
+  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]
+  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)]
 
 - 💻 I work using:
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://linweiqian.github.io/linweiqianBlog/)
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]
+  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)]
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]
+  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)]
+  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]
+  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)]
 
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
@@ -46,24 +46,23 @@ Here are some ideas to get you started:
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://linweiqian.github.io/linweiqianBlog/)
 
 - 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
+  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)]
+  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)]
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)]
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://linweiqian.github.io/linweiqianBlog/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)]visitor, Thank You!🎉🎉
 <!--
-<div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wxzhishang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiqian&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxzhishang&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=wxzhishang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 
 🔥 My projects:
 -----------------------
-个人博客hexo：https://lin-xiuer.gitee.io/
-个人博客Docute：https://linweiqian.github.io/linweiqianBlog/
+掘金：https://juejin.cn/user/2054349456680366
 
 
 🔥 My Skill Set:
@@ -123,9 +122,10 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 <br/>  
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=linweiqian" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=linweiqian" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wxzhishang" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wxzhishang" /> </div>
 <!--
+
 <div align="center">
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
