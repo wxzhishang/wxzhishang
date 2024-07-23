@@ -52,7 +52,7 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile
 
 🔥 Connect With Me:
 -----------------------
-掘金：https://juejin.cn/user/2054349456680366
+juejin：https://juejin.cn/user/2054349456680366
 
 
 🔥 My Skill Set:
